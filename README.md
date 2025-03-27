@@ -1,2 +1,2 @@
 # StudentPerformanceWithCloudDeployement
-# End to End Machine learning projrct 
+# End to End Machine learning project 
