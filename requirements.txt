@@ -9,5 +9,4 @@ dill
 xgboost
 flask
 
--e .
 
