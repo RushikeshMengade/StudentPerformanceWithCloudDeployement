@@ -1,10 +1,10 @@
 
 FROM python:3.7-slim-buster
-WORKDIR /app
-COPY . /app
+WORKDIR /application
+COPY . /appllication
 
 RUN apt update -y
 
 RUN apt-get update && pip install -r requirements.txt
-CMD ["python3", "app.py"]
+CMD ["python3", "application.py"]
 
